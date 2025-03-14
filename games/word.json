@@ -1,0 +1,504 @@
+[
+    
+    {
+        "level": "Level 01",
+        "soal": "Object : I-L-O-P-L-W",
+        "jawaban": "Pillow"
+        },
+    {
+        "level": "Level 02",
+        "soal": "Object : N-F-A",
+        "jawaban": "Fan"
+        },
+    {
+        "level": "Level 03",
+        "soal": "Random : P-H-P-A-Y",
+        "jawaban": "Happy"
+        },
+    {
+        "level": "Level 04",
+        "soal": "Word : G-S-M-A-E-I",
+        "jawaban": "Images"
+        },
+    {
+        "level": "Level 05",
+        "soal": "Random : E-D-T-R-I",
+        "jawaban": "Tired"
+        },
+    {
+        "level": "Level 06",
+        "soal": "Fruit : O-M-G-N-A",
+        "jawaban": "Mango"
+        },
+    {
+        "level": "Level 07",
+        "soal": "Fruit : A-R-G-P-E",
+        "jawaban": "Grape"
+        },
+    {
+        "level": "Level08",
+        "soal": "Word : T-D-H-A-E",
+        "jawaban": "Death"
+        },
+    {
+        "level": "Level 09",
+        "soal": "Word : E-L-I-F",
+        "jawaban": "Life"
+        },
+    {
+        "level": "Level 10",
+        "soal": "Random : Y-O-D-B",
+        "jawaban": "Body"
+        },
+    {
+        "level": "Level 11",
+        "soal": "Object : R-O-D-B-A",
+        "jawaban": "Board"
+        },
+    {
+        "level": "Level 12",
+        "soal": "Object : K-R-E-A-B",
+        "jawaban": "Brake"
+        },
+    {
+        "level": "Level 13",
+        "soal": "Fruit : I-P-E-P-A-N-L-N-E",
+        "jawaban": "Pinneaple"
+        },
+    {
+        "level": "Level 14",
+        "soal": "Food : B-A-D-R-E",
+        "jawaban": "Bread"
+        },
+    {
+        "level": "Level 15",
+        "soal": "Tools : E-N-F-K-I",
+        "jawaban": "Knife"
+        },
+    {
+        "level": "Level 16",
+        "soal": "Weapon : W-D-S-O-R",
+        "jawaban": "Sword"
+        },
+    {
+        "level": "Level 17",
+        "soal": "Random : H-O-C-S-O-L",
+        "jawaban": "School"
+        },
+    {
+        "level": "Level 18",
+        "soal": "Random : T-P-O-I-A-H-L-S",
+        "jawaban": "Hospital"
+        },
+    {
+        "level": "Level 19",
+        "soal": "Weapon : Z-A-B-O-K-Z",
+        "jawaban": "Bazzoka"
+        },
+    {
+        "level": "Level 666",
+        "soal": "Tools : W-A-N-S-C-I-A-H",
+        "jawaban": "Chainsaw"
+        },
+    {
+        "level": "Level 21",
+        "soal": "Word : D-R-Y-A-E",
+        "jawaban": "Ready"
+        },
+    {
+        "level": "Level 22",
+        "soal": "Word : E-E-M-X-A-L-P",
+        "jawaban": "Example"
+        },
+    {
+        "level": "Level 23",
+        "soal": "Tools : H-N-A-E-C-I-M",
+        "jawaban": "Machine"
+        },
+    {
+        "level": "Level 24",
+        "soal": "Random : O-N-B-E",
+        "jawaban": "Bone"
+        },
+    {
+        "level": "Level 25",
+        "soal": "Word : N-G-E-I-T-I",
+        "jawaban": "Ignite"
+        },
+    {
+        "level": "Level 26",
+        "soal": "Tools : E-Y-K",
+        "jawaban": "Key"
+        },
+    {
+        "level": "Level 27",
+        "soal": "Tools : R-H-N-O",
+        "jawaban": "Horn"
+        },
+    {
+        "level": "Level 28",
+        "soal": "Word : N-R-I-A",
+        "jawaban": "Rain"
+        },
+    {
+        "level": "Level 29",
+        "soal": "Animal : K-C-N-H-E-I-C",
+        "jawaban": "Chicken"
+        },
+    {
+        "level": "Level 30",
+        "soal": "Object : O-A-S-P",
+        "jawaban": "Soap"
+        },
+    {
+        "level": "Level 31",
+        "soal": "Weapon : I-S-M-L-S-E-I",
+        "jawaban": "Missile"
+        },
+    {
+        "level": "Level 32",
+        "soal": "Weapon : O-A-R-W-R",
+        "jawaban": "Arrow"
+        },
+    {
+        "level": "Level 33",
+        "soal": "Food : G-G-E",
+        "jawaban": "Egg"
+        },
+    {
+       "level": "Level 34",
+        "soal": "Object : K-P-A-E-R-S-E",
+        "jawaban": "Speaker"
+        },
+    {
+        "level": "Level 35",
+        "soal": "Fruit : E-V-I-L-O",
+        "jawaban": "Olive"
+        },
+    {
+        "level": "Level 36",
+        "soal": "Word : R-F-I-U-T",
+        "jawaban": "Fruit"
+        },
+    {
+        "level": "Level 37",
+        "soal": "Word : T-B-O-C-E-J",
+        "jawaban": "Object"
+        },
+    {
+        "level": "Level 38",
+        "soal": "Word : E-N-W-O-A-P",
+        "jawaban": "Weapon"
+        },
+    {
+        "level": "Level 39",
+        "soal": "Word : L-N-A-I-M-A",
+        "jawaban": "Animal"
+        },
+    {
+        "level": "Level 40",
+        "soal": "Word : O-D-O-F",
+        "jawaban": "Food"
+        },
+    {
+        "level": "Level 41",
+        "soal": "Word : N-R-K-I-D",
+        "jawaban": "Drink"
+        },
+    {
+        "level": "Level 42",
+        "soal": "Word : O-Y-A-M-N-D",
+        "jawaban": "Monday"
+        },
+    {
+        "level": "Level 43",
+        "soal": "Object : S-H-C-O-T-L-E",
+        "jawaban": "Clothes"
+        },
+    {
+        "level": "Level 44",
+        "soal": "Fruit : E-M-O-N-L",
+        "jawaban": "Melon"
+        },
+    {
+        "level": "Level 45",
+        "soal": "Weapon : O-B-W",
+        "jawaban": "Bow"
+        },
+    {
+        "level": "Level 46",
+        "soal": "Random : T-A-K-E-M-R",
+        "jawaban": "Market"
+        },
+    {
+        "level": "Level 47",
+        "soal": "Animal : P-D-N-O-L-H-I",
+        "jawaban": "Dolphin"
+        },
+    {
+        "level": "Level 48",
+        "soal": "Animal : R-E-I-D-S-P",
+        "jawaban": "Spider"
+        },
+    {
+        "level": "Level 49",
+        "soal": "Object : G-F-A-L",
+        "jawaban": "Flag"
+        },
+    {
+        "level": "Level 50",
+        "soal": "Object : C-O-W-A-M-E-R-I-V",
+        "jawaban": "Microwave"
+        },
+    {
+        "level": "Level 51",
+        "soal": "Random : U-H-E-O-S",
+        "jawaban": "House"
+        },
+    {
+       "level": "Level 52",
+        "soal": "Random : W-T-E-O-R",
+        "jawaban": "Tower"
+        },
+    {
+        "level": "Level 53",
+        "soal": "Object : L-S-I-C-T-P-A",
+        "jawaban": "Plastic"
+        },
+    {
+        "level": "Level 54",
+        "soal": "Object : M-T-C-O-P-E-R-U",
+        "jawaban": "Computer"
+        },
+    {
+        "level": "Level 55",
+        "soal": "Animal : P-E-S-E-H",
+        "jawaban": "Sheep"
+        },
+    {
+        "level": "Level 56",
+        "soal": "Word : E-P-E-L-S",
+        "jawaban": "Sleep"
+        },
+    {
+        "level": "Level 57",
+        "soal": "Random : H-U-A-G-L",
+        "jawaban": "Laugh"
+        },
+    {
+        "level": "Level 58",
+        "soal": "Word : R-A-E-V-B",
+        "jawaban": "Brave"
+        },
+    {
+        "level": "Level 59",
+        "soal": "Word : O-R-L-E-D-A",
+        "jawaban": "Reload"
+        },
+    {
+        "level": "Level 60",
+        "soal": "Random : W-N-I-E-R-N",
+        "jawaban": "Winner"
+        },
+    {
+        "level": "Level 61",
+        "soal": "Random : N-T-R-I-E-W",
+        "jawaban": "Winter"
+        },
+    {
+        "level": "Level 62",
+        "soal": "Random : R-M-U-S-E-M",
+        "jawaban": "Summer"
+        },
+    {
+        "level": "Level 63",
+        "soal": "Random : U-S-M-M-S-U-E",
+        "jawaban": "Musseum"
+        },
+    {
+       "level": "Level 64",
+        "soal": "Food : Z-E-L-A-R-M-O-L-A",
+        "jawaban": "Mozarella"
+        },
+    {
+        "level": "Level 65",
+        "soal": "Word : E-R-W-T-A",
+        "jawaban": "Water"
+        },
+    {
+        "level": "Level 66",
+        "soal": "Food : R-B-U-T-E-T",
+        "jawaban": "Butter"
+        },
+    {
+        "level": "Level 67",
+        "soal": "Word : F-P-O-R-E-L-W-U",
+        "jawaban": "Powerful"
+        },
+    {
+        "level": "Level 68",
+        "soal": "Food : T-O-T-O-P-A",
+        "jawaban": "Potato"
+        },
+    {
+        "level": "Level 69",
+        "soal": "Object : H-S-O-S-E",
+        "jawaban": "Shoes"
+        },
+    {
+        "level": "70",
+        "soal": "Animal : E-B-E",
+        "jawaban": "Bee"
+        },
+    {
+        "level": "71",
+        "soal": "Random : L-M-E-S-I",
+        "jawaban": "Smile"
+        },
+    {
+        "level": "Level 72",
+        "soal": "Random : X-U-N",
+        "jawaban": "Unx"
+        },
+    {
+        "level": "Level 73",
+        "soal": "Random : R-K-O-U",
+        "jawaban": "Kuro"
+        },
+    {
+        "level": "Level 74",
+        "soal": "Random : Y-N-X-L",
+        "jawaban": "Lynx"
+        },
+    {
+        "level": "Level 75",
+        "soal": "Random : E-I-C-L",
+        "jawaban": "Ciel"
+        },
+    {
+        "level": "Level 76",
+        "soal": "Random : N-R-X",
+        "jawaban": "Rnx"
+        },
+    {
+        "level": "Level 77",
+        "soal": "Random : N-D-I-C-E-M-I-E",
+        "jawaban": "Medicine"
+        },
+    {
+        "level": "Level 78",
+        "soal": "Weapon : T-O-V-M-O-O-L",
+        "jawaban": "Molotov"
+        },
+    {
+        "level": "Level 79",
+        "soal": "Object : D-O-R-O",
+        "jawaban": "Door"
+        },
+    {
+        "level": "Level 80",
+        "soal": "Fruit : N-C-T-O-O-U-C",
+        "jawaban": "Coconut"
+        },
+    {
+        "level": "Level 81",
+        "soal": "Object : K-T-C-O-H-O-P-T-I",
+        "jawaban": "Toothpick"
+        },
+    {
+        "level": "Level 82",
+        "soal": "Food : E-R-C-I",
+        "jawaban": "Rice"
+        },
+    {
+        "level": "Level 83",
+        "soal": "Animal : F-A-I-G-F-E-R",
+        "jawaban": "Giraffe"
+        },
+    {
+        "level": "Level 84",
+        "soal": "Tools : S-H-L-I-E-C",
+        "jawaban": "Chisel"
+        },
+    {
+        "level": "Level 85",
+        "soal": "Random : G-Y-N-A-R",
+        "jawaban": "Angry"
+        },
+    {
+        "level": "Level 86",
+        "soal": "Animal : U-J-R-A-A-G",
+        "jawaban": "Jaguar"
+        },
+    {
+        "level": "Level 87",
+        "soal": "Food : A-E-C-N-L-I-D-A-H",
+        "jawaban": "Enchilada"
+        },
+    {
+        "level": "Level 88",
+        "soal": "Weapon : E-H-S-L-D-I",
+        "jawaban": "Shield"
+        },
+    {
+        "level": "Level 89",
+        "soal": "Tools : E-M-A-H-M-R",
+        "jawaban": "Hammer"
+        },
+    {
+        "level": "Level 90",
+        "soal": "Word : T-E-S-R-P-E-C",
+        "jawaban": "Respect"
+        },
+    {
+        "level": "Level 91",
+        "soal": "Object : W-L-E-H-E",
+        "jawaban": "Wheel"
+        },
+    {
+        "level": "Level 92",
+        "soal": "Food : B-A-W-S-I-A",
+        "jawaban": "Wasabi"
+        },
+    {
+        "level": "Level 93",
+        "soal": "Object : N-I-R-G",
+        "jawaban": "Ring"
+        },
+    {
+        "level": "Level 94",
+        "soal": "Weapon : M-Y-A-N-D-T-I-E",
+        "jawaban": "Dynamite"
+        },
+    {
+        "level": "Level 95",
+        "soal": "Random : O-I-M-A-N-T-U-N",
+        "jawaban": "Mountain"
+        },
+    {
+        "level": "Level 96",
+        "soal": "Food : G-S-A-U-R",
+        "jawaban": "Sugar"
+        },
+    {
+        "level": "Level 97",
+        "soal": "Object : U-M-G",
+        "jawaban": "Mug"
+        },
+    {
+        "level": "Level 777",
+        "soal": "Word : E-S-N-O-V-R-U",
+        "jawaban": "Nervous"
+        },
+    {
+        "level": "Level 999",
+        "soal": "Me : D-N-S-O-E-P-S-R-I-E",
+        "jawaban": "Depression"
+        },
+    {
+        "level": "Level 177013",
+        "soal": "Me : T-S-A-E-R-A-P-E",
+        "jawaban": "Separate"
+        }
+     
+]
